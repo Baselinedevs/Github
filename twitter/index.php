@@ -10,6 +10,7 @@
 <input name="friends" type="submit" value="FRIENDS" ></input>
 <input name="followers" type="submit" value="FOLLOWERS" ></input>
 </form>
+
 <hr />
 </center>
 </body>
