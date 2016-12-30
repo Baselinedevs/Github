@@ -1,7 +1,6 @@
 <!DOCTYPE html>
+/*----------------------Index page -----------------*/
 <html>
-
-
 <body>
 <center>
 <form action=""  method="POST">
